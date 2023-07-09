@@ -1,0 +1,6 @@
+[book]
+authors = ["Ben-Hur Santana"]
+language = "pt"
+multilingual = false
+src = "src"
+title = "Sistema de recomendação de produtos"
