@@ -1,6 +1,7 @@
 # Recomendação de Produtos em um E-Commerce
 
 ## Contextualização
+<div id="contextualizacao"></div>
 
 O Pão de Mel é um mercado online muito popular. Um empresa como essa sempre precisa compreender o padrão de consumo de seus clientes para fazer ofertas direcionadas, programas de pontos e várias outras iniciativas para que os clientes tenham maior recorrência de compra.
 
